@@ -264,7 +264,7 @@ body {
      border-radius: 10px;
    }
    .protfolio .protfolio-content .card:hover {
-     transform: scale(1.1);
+     transform: scale(1.09);
    }
    @media (max-width: 767px) {
    .protfolio .protfolio-content .card:hover {
